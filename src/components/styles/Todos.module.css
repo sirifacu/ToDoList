@@ -1,0 +1,12 @@
+.box {
+    width: 30%;
+    border: 1px solid black;
+    margin: 3% 1.5% 0px 1.5%;
+    border-radius: 5px;
+    box-shadow: 3px 4px 16px 0px rgba(0,0,0,0.75);
+}
+
+.title {
+    font-weight: bold;
+    font-size: 20px;
+}

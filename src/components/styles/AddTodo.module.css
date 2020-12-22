@@ -1,0 +1,18 @@
+.form {
+    width: 40%;
+    margin: 25px auto;
+}
+
+label {
+    font-weight: bold;
+}
+
+.btnColor {
+    background-color: rgb(27, 56, 143);
+    color: white;
+    font-weight: 700;
+}
+
+.btnColor:hover {
+    color: rgba(59, 109, 255, 0.6);  
+  }

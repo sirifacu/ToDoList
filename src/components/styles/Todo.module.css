@@ -1,0 +1,9 @@
+.todoWrapper {
+    background-color: rgb(27, 56, 143);
+    margin: 5px;
+    border-radius: 5px;
+}
+
+.todoTitle {
+    color: white;
+}
